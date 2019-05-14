@@ -95,6 +95,7 @@
 	- [Tools](#tools)
 	- [Community](#community)
 	- [Miscellaneous](#miscellaneous)
+	- [Inspiration](#inspiration)
 
 
 ## Packages
